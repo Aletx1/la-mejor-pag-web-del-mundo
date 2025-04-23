@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    color: azure;
+}
+
+body {
+    background-color: rgb(19, 5, 99);
+}
+.p {
+    display: flex;
+}
+
+.t {
+    text-align: center;
+}
+
+.logo{
+    width: 80px;
+    border-radius:  15%;
+    margin: 10px;
+}
+a {
+   color: rgb(158, 16, 177); 
+}
+
+footer {
+    text-align: right;
+}
